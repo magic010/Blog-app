@@ -17,7 +17,7 @@ export default function Sidebar() {
         <span className="sidebarTitle">ABOUT ME</span>
         <img
           className="sidebarImg"
-          src="https://media.istockphoto.com/photos/heart-and-soul-picture-id1216425366?k=20&m=1216425366&s=612x612&w=0&h=2DTHso4Ryo4bobdaKDuLgqArtrgHpAPIq-8-mVGtyHs="
+          src="https://picsum.photos/265/250"
           alt=""
         />
         <p>
